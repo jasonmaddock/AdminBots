@@ -1,0 +1,15 @@
+Date,FirstName,LastName,Email,UserType,Country,Status
+02/11/2023,Aurelie,Colon,aurelie.colon@sartorius.com,LPSCustomerService,France,SUCCESS
+02/11/2023,Darren,Peacock,darren.peacock2@sartorius.com,LPSCustomerService,United Kingdom,SUCCESS
+02/11/2023,Lili,Nemenyi,lili.nemenyi@sartorius.com,LPSCustomerService,United Kingdom,SUCCESS
+02/11/2023,Anna,Crippa,anna.crippa@sartorius.com,LPSCustomerService,Italy,SUCCESS
+02/11/2023,Jessica,Curciarello,jessica.curciarello@sartorius.com,LPSCustomerService,Italy,SUCCESS
+02/11/2023,Isabel,Gonzaga,isabel.gonzaga@sartorius.com,LPSCustomerService,Spain,SUCCESS
+02/11/2023,Sara,Santucci,sara.santucci@sartorius.com,LPSCustomerService,Italy,SUCCESS
+02/11/2023,Begona,Vazquez,begona.vazquez@sartorius.com,LPSCustomerService,Spain,DUPLICATE
+2023-11-03,Kim,Wright,kimberley.wright@sartorius.com,LPSCustomerService,United States,SUCCESS
+2023-11-03,Diana,Begy,diana.begy@sartorius.com,LPSCustomerService,United States,DUPLICATE
+2023-11-03,Danielle,Canniff,danielle.canniff@sartorius.com,LPSCustomerService,United States,DUPLICATE
+2023-11-03,Haley,Vogrin,Haley.Vogrin@sartorius.com,LPSCustomerService,United States,DUPLICATE
+2023-11-03,Elsa,Cheung,Elsa.Cheung@sartorius.com,LPSCustomerService,United States,DUPLICATE
+2023-11-03,Deepali,Dhar,Deepali.Dhar@sartorius.com,LPSCustomerService,United States,DUPLICATE
